@@ -1,6 +1,6 @@
 == README
 
-# Description
+=== Description
 
 The Stock Tracker app was built as a proof of concept and features only basic styling.
 
@@ -8,7 +8,7 @@ Users can sign up / sign in and search for up to ten stocks by stock symbol to t
 
 Users can also search for and add friends (must be users of the app) and view the stocks they are tracking under the “My Friends” tab. Users can search for friends by name, last name, email address, or a partial search term.
 
-# Stack
+=== Stack
 
 * Ruby & Ruby on Rails (4.2)
 * JavaScript, jQuery & AJAX
