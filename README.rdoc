@@ -1,20 +1,21 @@
 == README
 
-Description
+# Description
+
 The Stock Tracker app was built as a proof of concept and features only basic styling.
 
 Users can sign up / sign in and search for up to ten stocks by stock symbol to track under their “My Portfolio” tab. The app uses the Yahoo Finance API via the stock_quote gem to display a stock’s most recent opening price.
 
 Users can also search for and add friends (must be users of the app) and view the stocks they are tracking under the “My Friends” tab. Users can search for friends by name, last name, email address, or a partial search term.
 
-Stack
-Ruby & Ruby on Rails (4.2)
-JavaScript, jQuery & AJAX
-HTML5, CSS3 & Bootstrap
-Devise
-Git, GitHub, Heroku, SQLite & PostgreSQL
-View this project on GitHub and live on Heroku.
+# Stack
 
-Please allow a moment for the app to load as it's hosted on Heroku's free tier.
+* Ruby & Ruby on Rails (4.2)
+* JavaScript, jQuery & AJAX
+* HTML5, CSS3 & Bootstrap
+* Devise
+* Git, GitHub, Heroku, SQLite & PostgreSQL
+
+
 
 
